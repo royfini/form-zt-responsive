@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "components/form/form.js",
+    "components/select-option/select-option.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.19.2",
+    "typescriptVersion": "5.4.5"
+  },
+  "collections": [],
+  "bundles": []
+}
